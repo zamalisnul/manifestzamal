@@ -1,0 +1,38 @@
+{ 
+"name": "OreNoFanfiction", 
+"short_name": "OreraFanfic", 
+"start_url": "https://orerafanfic.blogspot.com/", 
+"display": "standalone", 
+"background_color": "#fff", 
+"theme_color": "#C51162", 
+"description": "Orera FanFic adalah blog yang memuat cerita-cerita fiksi karangan penggemar. Ada yang #ActionSeru, ada yang galau #Drama, ada pula #Komedi yang bikin ngakak, dan banyak lagi. Jadi tunggu apa lagi yuk mari baca disini.", 
+"icons": [{
+	"src": "https://1.bp.blogspot.com/-W48sy-g9pT4/XOK0JU4vBRI/AAAAAAAAAAM/aaiah-t1qPQnqCggmwRvwkPov8IVFlx1ACLcBGAs/s48/ore48.png",
+	"sizes": "48x48",
+	"type": "image/png"
+	}, {
+	"src": "https://1.bp.blogspot.com/-wS1Arf4ADnE/XOK0SSdtY8I/AAAAAAAAAAY/JQTJHzx1UNsLmjjfiKWu_W0-N9ZVggOpgCLcBGAs/s72/ore72.png", 
+	"sizes": "72x72", 
+	"type": "image/png" 
+	}, {
+	"src": "https://1.bp.blogspot.com/-lZjMCNAYmCI/XOK0RnoP8eI/AAAAAAAAAAU/UXlwkjb9MbQm9WjrmJlBfjrJMeYAF7RyQCLcBGAs/s96/ore96.png", 
+	"sizes": "96x96", 
+	"type": "image/png" 
+	}, { 
+	"src": "https://2.bp.blogspot.com/-FYn_ABuhiI4/XOLBtz-KJjI/AAAAAAAAABg/-he-orPLt-Q0o0L0hX96MjciEB9qCVlggCLcBGAs/s144/ms-icon-144x144.png", 
+	"sizes": "144x144", 
+	"type": "image/png" 
+	}, { 
+	"src": "https://1.bp.blogspot.com/-nfdo3eE3i9E/XOK0WYKBXoI/AAAAAAAAAAc/oH4-8DXIsWQf-lSYDOJ0OiyAtzaZBK2hgCLcBGAs/s168/ore168a.png", 
+	"sizes": "168x168", 
+	"type": "image/png" 
+	}, { 
+	"src": "https://4.bp.blogspot.com/-rgpamDlonas/XOLBgWPxBbI/AAAAAAAAABY/3YNP49ABq2AoAy2ULAUUg5FkreMAYZqZgCLcBGAs/s192/android-icon-192x192.png", 
+	"sizes": "192x192", 
+	"type": "image/png" 
+	}, { 
+	"src": "https://1.bp.blogspot.com/-DVnYLu_xbWE/XOK0sFTF_4I/AAAAAAAAABE/SQEvU1ck4XcsJD8sc5xmJjWFv93Hzrp1wCLcBGAs/s512/ore512a.png", 
+	"sizes": "512x512", 
+	"type": "image/png" 
+	}] 
+}
