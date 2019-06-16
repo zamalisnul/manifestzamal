@@ -1,0 +1,38 @@
+{ 
+"name": "ZAMISKU", 
+"short_name": "ZA", 
+"start_url": "https://zamisku.blogspot.com/", 
+"display": "standalone", 
+"background_color": "#fff", 
+"theme_color": "#df0024", 
+"description": "ZAMISKU adalah blog pribadi yang kebanyakan isi unfaedah. Jadi blog ini hanya disarankan untuk pembaca yang mempunyai banyak waktu luang.", 
+"icons": [{
+	"src": "https://1.bp.blogspot.com/-d2eFTau9mOs/XQakRau_wDI/AAAAAAAAAb0/9T9ZLM7Pcoc8GcKBzJsoy2AAkzBeEsF4ACLcBGAs/s48/android-icon-48x48.png"
+	"sizes": "48x48",
+	"type": "image/png"
+	}, {
+	"src": "https://1.bp.blogspot.com/-VreLXwZP1mM/XQakVJSp0zI/AAAAAAAAAb4/QmG0ngGgEW8Ne1wZDocVkLLfSKhN3vHlQCLcBGAs/s72/apple-icon-72x72.png" 
+	"sizes": "72x72", 
+	"type": "image/png" 
+	}, {
+	"src": "https://1.bp.blogspot.com/-I1mkLNNXROA/XQakYVbLpQI/AAAAAAAAAb8/p4RbubW3eH8me7AJJTxNDgRUqo22XGCNwCLcBGAs/s96/android-icon-96x96.png"
+	"sizes": "96x96", 
+	"type": "image/png" 
+	}, { 
+	"src": "https://1.bp.blogspot.com/-0t6s9xh6NnA/XQahRTT4OzI/AAAAAAAAAao/mzroB6R319YFFIindXfUUh4bHspwhomAgCLcBGAs/s144/ms-icon-144x144.png"
+	"sizes": "144x144", 
+	"type": "image/png" 
+	}, { 
+	"src": "https://4.bp.blogspot.com/-K5d4UGBcF-A/XQan77RY2tI/AAAAAAAAAcU/M3u4HFvqYps6Ey1dskL1asK7Vxa2NSBVgCLcBGAs/s168/168.png"
+	"sizes": "168x168", 
+	"type": "image/png" 
+	}, { 
+	"src": "https://3.bp.blogspot.com/-voa4jlnF4D0/XQan4aL_Y7I/AAAAAAAAAcQ/N4DreE3jKT8l9ox9qm8_JWDBsjpx-spfgCLcBGAs/s192/android-icon-192x192.png" 
+	"sizes": "192x192", 
+	"type": "image/png" 
+	}, { 
+	"src": "https://1.bp.blogspot.com/-xSsjuN8oWL8/XQaoEAOM8bI/AAAAAAAAAcc/oRvD2N47Xmk6gUGRqNEejO7N3LUTf-fmQCLcBGAs/s512/512.png"
+	"sizes": "512x512", 
+	"type": "image/png" 
+	}] 
+}
